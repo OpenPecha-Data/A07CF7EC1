@@ -1,0 +1,19 @@
+id: A07CF7EC1
+title: Prayer to Khandro Tsering Chödrön
+type: translation
+pechas:
+- I0EFEB44D
+- I1CA964BE
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:38:21.757524
+  last_modified_at: 2023-01-04 11:38:21.757536
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I0EFEB44D/EA29: A104
+  I1CA964BE/DCC7: A104
